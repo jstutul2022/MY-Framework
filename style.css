@@ -1,0 +1,11 @@
+.text-primary{
+    color: blue;
+}
+
+.text-success{
+    color: rgb(22, 121, 44);
+}
+
+.text-danger{
+    color: rgb(255, 0, 0);
+}
